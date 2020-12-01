@@ -15,8 +15,6 @@ public mn(int id,String username,String password,int sex,String love ) {
 	this.id = id;
 	this.username = username;
 	this.password= password;
-	this.sex = sex;
-	this.love = love;
 }
 
 }
